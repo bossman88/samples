@@ -26,9 +26,9 @@
 @endsection
 
 
-<style type="text/css">
+{{-- <style type="text/css">
   
 
 
 
-</style>
+</style> --}}
